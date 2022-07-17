@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**ShehriyarShariq/ShehriyarShariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Shehriyar Shariq</h1>
 <h3 align="center">I am a Full Stack Web and Mobile Developer</h3>
 
@@ -41,7 +24,7 @@ Here are some ideas to get you started:
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
@@ -50,44 +33,44 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" width="60">
+        <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png">
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
 </tr>
 <tr>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png">
     </td>
-    <td align='center'>
-        <img src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" width="110">
+    <td align='center' width="190">
+        <img src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg">
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://pngimg.com/uploads/android_logo/small/android_logo_PNG29.png">
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://www.django-rest-framework.org/img/logo.png">
     </td>
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60">
+    <td align='center' width="190">
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png">
     </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png">
     </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" >
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
     </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="60">
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png">
     </td>
 </tr>
 <tr>
@@ -126,13 +109,13 @@ Here are some ideas to get you started:
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
     </td>
      <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
