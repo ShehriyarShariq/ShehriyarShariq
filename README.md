@@ -47,33 +47,36 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
-    </td>
-     <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="110">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+        <img src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" width="110">
+    </td>
+    <td align='center'>
+        <img src="https://pngimg.com/uploads/android_logo/small/android_logo_PNG29.png">
     </td>
     <td align='center'>
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png">
-    </td>
-    <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60">
+        <img src="https://www.django-rest-framework.org/img/logo.png">
     </td>
 </tr>
 <tr>
+    <td align='center'>
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60">
+    </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
     </td>
@@ -81,21 +84,21 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/2560px-Tailwind_CSS_logo.svg.png">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
     </td>
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="60">
     </td>
 </tr>
 <tr>
     <td align='center'>
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
+    <td align='center'>
         <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
     </td>
     <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+        <img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png">
     </td>
     <td align='center'>
         <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
@@ -103,11 +106,11 @@ Here are some ideas to get you started:
     <td align='center'>
         <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
     </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jamstack_logo.svg/2560px-Jamstack_logo.svg.png">
-    </td>
 </tr>
 <tr>
+    <td align='center'>
+        <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png">
+    </td>
     <td align='center'>
         <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH">
     </td>
@@ -118,7 +121,21 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png">
+        <img src="https://i.pinimg.com/originals/17/dd/84/17dd84fe75c8ba1ca26aa18b3570b65b.png">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
 </tr>
     
